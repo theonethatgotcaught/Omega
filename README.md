@@ -1,2 +1,12 @@
 # Real or Not? NLP with Disaster Tweets
-# Omega
+## Group Omega
+
+## Project description
+
+## Data
+
+## Submission
+
+## Deliverables
+
+## Results
