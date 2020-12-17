@@ -1,12 +1,13 @@
 # Real or Not? NLP with Disaster Tweets
 ## Group Omega
 
-## Project description
+## 📑Project description 
+Real or Not? NLP with Disaster Tweets: For this project we are 
 
-## Data
+## 📊Data 
 
-## Submission
+## 📥 Submission 
 
-## Deliverables
+## 📰 Deliverables 
 
-## Results
+## 🧾 Results 
