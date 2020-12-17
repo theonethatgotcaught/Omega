@@ -42,7 +42,7 @@ We did an Eda to see what we need to preprocessing
   
      Lemmatize
     
-     Ponctuation
+     Punctuations
     
      Remove numbers
     
@@ -90,7 +90,7 @@ Vectorizer
 
 **Decision Tree Classifier with TF-IDF**
 
-    Default paramters
+    Default parameters
 
     Score = 0.6857
 
@@ -99,7 +99,7 @@ Vectorizer
   
   **Random Forest with TF-IDF**
 
-    Default paramters
+    Default parameters
 
     Score = 0.9466 
 
