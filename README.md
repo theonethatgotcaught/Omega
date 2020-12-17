@@ -17,22 +17,34 @@ There is two datasets:
 ## 🎯 Project structure
 **Preparation**
 Create new GitHub repository
+
 Create python notebook with Colab
+
 We did an Eda to see what we need to preprocessing
+
   Merged the keywords with the text
   
   
   Clean the data
+  
     Delete the links
+    
     Upper case to lower case
+    
     Delete unnecessary symbols: @, #,...
     
     
+    
   Tokenizer (spacy tokenizer )
+  
     Lemmatize
+    
     Ponctuation
+    
     Remove numbers
+    
     Remove stopwords
+    
 
 **Data
 
