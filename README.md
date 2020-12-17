@@ -28,23 +28,23 @@ We did an Eda to see what we need to preprocessing
   
   Clean the data
   
-    Delete the links
+     Delete the links
     
-    Upper case to lower case
+     Upper case to lower case
     
-    Delete unnecessary symbols: @, #,...
+     Delete unnecessary symbols: @, #,...
     
     
     
   Tokenizer (spacy tokenizer )
   
-    Lemmatize
+     Lemmatize
     
-    Ponctuation
+     Ponctuation
     
-    Remove numbers
+     Remove numbers
     
-    Remove stopwords
+     Remove stopwords
     
 
 
@@ -56,13 +56,13 @@ TF-IDF Vectorizer with Logistic
 
 Regression
 
-  Max_df = 0.725
+    Max_df = 0.725
   
-  Min_df = 0.0
+    Min_df = 0.0
   
-  Ngram_range = (1,1)
+    Ngram_range = (1,1)
   
-  Smooth_idf = False
+    Smooth_idf = False
   
 **Without train_test_split
 
@@ -79,29 +79,29 @@ Regression
 
 Vectorizer
 
-  K = 6
+    K = 6
   
-  Gridsearch not useful
+    Gridsearch not useful
   
-  Score = 0.7559
+    Score = 0.7559
   
 
 **Decision Tree Classifier with TF-IDF**
 
-  Default paramters
+    Default paramters
 
-  Score = 0.6857
+    Score = 0.6857
 
-  No tuning hyper-parameters given low score
+    No tuning hyper-parameters given low score
   
   
   **Random Forest with TF-IDF**
 
-  Default paramters
+    Default paramters
 
-  Score = 0.6857
+    Score = 0.6857
 
-  No tuning hyper-parameters given low score
+    No tuning hyper-parameters given low score
   
 
 ## 📽️ Our video 
