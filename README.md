@@ -46,12 +46,15 @@ We did an Eda to see what we need to preprocessing
     Remove stopwords
     
 
-**Data
 
 ## 🧾 Results and solution
+
+### Best model
 
 **Classifier:** Logisitic regression
 **Parameters:** C = 2, ngram_range = (1,1), norm = 'l2'
 **Accuracy:** 0.821
+
+### Other models
 
 ## 📽️ Our video 
