@@ -108,9 +108,12 @@ Vectorizer
 
 ## 📽️ Our video 
     
-     <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=iFVyntNgX4A" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+     <div align="center">
+      <a href="https://www.youtube.com/watch?v=iFVyntNgX4A">
+     <img 
+      src="https://img.youtube.com/vi/iFVyntNgX4A" 
+      alt="Everything Is AWESOME" 
+      style="width:100%;">
+      </a>
+    </div>
     
