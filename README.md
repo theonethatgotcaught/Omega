@@ -108,12 +108,4 @@ Vectorizer
 
 ## 📽️ Our video 
     
-     <div align="center">
-      <a href="https://www.youtube.com/watch?v=iFVyntNgX4A">
-     <img 
-      src="https://img.youtube.com/vi/iFVyntNgX4A" 
-      alt="Everything Is AWESOME" 
-      style="width:100%;">
-      </a>
-    </div>
-    
+     [![Alt text](https://img.youtube.com/vi/iFVyntNgX4A/0.jpg)](https://www.youtube.com/watch?v=iFVyntNgX4A)
