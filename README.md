@@ -51,9 +51,26 @@ We did an Eda to see what we need to preprocessing
 
 ### Best model
 
+TF-IDF Vectorizer with Logistic
+
+Regression
+
+  Max_df = 0.725
+  
+  Min_df = 0.0
+  
+  Ngram_range = (1,1)
+  
+  Smooth_idf = False
+  
+**Without train_test_split
+
 **Classifier:** Logisitic regression
+
 **Parameters:** C = 2, ngram_range = (1,1), norm = 'l2'
+
 **Accuracy:** 0.821
+
 
 ### Other models
 
