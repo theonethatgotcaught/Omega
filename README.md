@@ -64,7 +64,7 @@ Regression
   
     Smooth_idf = False
   
-**Without train_test_split
+**Without train_test_split**
 
 **Classifier:** Logisitic regression
 
