@@ -99,9 +99,9 @@ Vectorizer
 
     Default paramters
 
-    Score = 0.6857
+    Score = 0.9466 
 
-    No tuning hyper-parameters given low score
+    No tuning hyper-parameters because this model is overfitted
   
 
 ## 📽️ Our video 
