@@ -11,8 +11,10 @@ Real or Not? NLP with Disaster Tweets: For this project we are challenged to bui
 
 ## 📊 Data 
 There is two datasets:
+
   df_train where we have 6471 rows and five columns.
-  df_test where we have to applied our models to predict the "target" column
+  
+  df_test with 1142 rows where we have to applied our models to predict the "target" column
   
 ## 🎯 Project structure
 **Preparation**
