@@ -108,4 +108,4 @@ Vectorizer
 
 ## 📽️ Our video 
     
-     [![Alt text](https://img.youtube.com/vi/iFVyntNgX4A/0.jpg)](https://www.youtube.com/watch?v=iFVyntNgX4A)
+     ![Alt text](https://img.youtube.com/vi/iFVyntNgX4A/0.jpg)(https://www.youtube.com/watch?v=iFVyntNgX4A)
