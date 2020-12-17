@@ -3,6 +3,7 @@
 Maxime Dubi
 
 Kamila Mananova
+
 Bleron Ramaj
 
 ## 📑Project description 
@@ -17,7 +18,23 @@ There is two datasets:
 **Preparation**
 Create new GitHub repository
 Create python notebook with Colab
-Eda to see what we need to preprocessing
+We did an Eda to see what we need to preprocessing
+  Merged the keywords with the text
+  
+  
+  Clean the data
+    Delete the links
+    Upper case to lower case
+    Delete unnecessary symbols: @, #,...
+    
+    
+  Tokenizer (spacy tokenizer )
+    Lemmatize
+    Ponctuation
+    Remove numbers
+    Remove stopwords
+
+**Data
 
 ## 🧾 Results and solution
 
