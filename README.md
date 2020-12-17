@@ -75,4 +75,33 @@ Regression
 
 ### Other models
 
+**K-Nearest Neighbours (KNN) with TF-IDF**
+
+Vectorizer
+
+  K = 6
+  
+  Gridsearch not useful
+  
+  Score = 0.7559
+  
+
+**Decision Tree Classifier with TF-IDF**
+
+  Default paramters
+
+  Score = 0.6857
+
+  No tuning hyper-parameters given low score
+  
+  
+  **Random Forest with TF-IDF**
+
+  Default paramters
+
+  Score = 0.6857
+
+  No tuning hyper-parameters given low score
+  
+
 ## 📽️ Our video 
