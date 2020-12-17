@@ -107,3 +107,5 @@ Vectorizer
   
 
 ## 📽️ Our video 
+    
+    The link to our video : https://youtu.be/iFVyntNgX4A
