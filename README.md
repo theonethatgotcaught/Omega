@@ -16,6 +16,7 @@ There is two datasets:
   
 ## 🎯 Project structure
 **Preparation**
+
 Create new GitHub repository
 
 Create python notebook with Colab
