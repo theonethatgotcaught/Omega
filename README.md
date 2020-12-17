@@ -23,7 +23,7 @@ Create new GitHub repository
 
 Create python notebook with Colab
 
-We did an Eda to see what we need to preprocessing
+We did an EDA to see what we need to preprocessing
 
   Merged the keywords with the text
   
