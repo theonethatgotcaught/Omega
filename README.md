@@ -1,6 +1,7 @@
 # Real or Not? NLP with Disaster Tweets
 ## Team Omega
-Maxime Dubi 
+Maxime Dubi
+
 Kamila Mananova
 Bleron Ramaj
 
